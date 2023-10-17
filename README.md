@@ -15,7 +15,7 @@ By using various datasets, finding relationship between each datasets and visual
 |date|datetime|Flight Price|Date (DD-MMM)|
 |price|datetime|Flight Price|Average flight price from Bangkok to Singapore (round-trip, 4 days) in baht|
 
-The analysis is mainly focus on the number of rainy days and rain amount, as it will be the most concerned factors for travellers.
+The analysis is mainly focus on the number of rainy days and rain amount, as it will be the most concerned factors for travelers.
 
 #### **From EDA and Visualization, it has been found that**
 * In 1990, 2000, 2010 and 2020, December has the highest number of rainy days and rain amount while January has the lowest.
