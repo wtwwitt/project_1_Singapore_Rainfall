@@ -38,7 +38,7 @@ The analysis is mainly focus on the number of rainy days and rain amount, as it 
 
 ![Rainfall and Sunshine Hours](images/Comparison%20of%20Rainfall%20and%20Sunshine%20Hours.png)
 
-Considered the number of rainy days, the best month to travel to Singapore is February with relativly low temperature.
+Considered the number of rainy days, the best month to travel to Singapore is February with relatively low temperature.
 However, it can be crowded as Chinese New Year usually falls in February, picking the period earlier of later in the month should be better.
 
 Avoid November and December as they are the wettest months with additional of relatively high flight price.
