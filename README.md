@@ -33,7 +33,7 @@ The analysis is mainly focus on the number of rainy days and rain amount, as it 
     * Nov, Dec (peak): 19 (with 99% chance of 9 rain days or more)
     * Jan and Mar-Oct (rugular): 14 (with 99% chance of 5 rain days or more)
     * Feb (lowest): 8
-    <br>
+    
 * If the average sunshine hours is higher than 6.5 or lower than 4.5 hrs. the number of rainy days in that month goes up or down significantly.
 
 ![Rainfall and Sunshine Hours](images/Comparison%20of%20Rainfall%20and%20Sunshine%20Hours.png)
