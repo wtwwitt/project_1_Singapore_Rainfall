@@ -12,7 +12,7 @@ By using various datasets, finding relationship between each datasets and visual
 |humidity|float|rain_df|Monthly average relative humidity|
 |sun_hrs|float|rain_df|Monthly average sunshine hours|
 |mean_temp|float|rain_df|Monthly average surface temperature (degree celsius)|
-|date|datetime|Flight Price|Month (YYYY-MM-01)|
+|date|datetime|Flight Price|Date (DD-MMM)|
 |price|datetime|Flight Price|Average flight price from Bangkok to Singapore (round-trip, 4 days) in baht|
 
 The analysis is mainly focus on the number of rainy days and rain amount, as it will be the most concerned factors for travellers.
